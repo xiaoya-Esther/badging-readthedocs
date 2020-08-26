@@ -8,13 +8,12 @@ Welcome to badging-readthedocs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
    
    Overview
    Applying
-   Apply for event badge
+   apply-for-event-badge
    Reviewing
-   Review Checklist
+   review-checklist
 
 
 Indices and tables
